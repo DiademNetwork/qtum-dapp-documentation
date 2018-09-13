@@ -14,7 +14,7 @@ Table of content:
 
 ## What is Diadem Network?
 
-Diadem Network aims to connect users achieving great things with people wanting to support them
+Diadem Network leverages blockchain technology from [Qtum](https://qtum.org) and [Facebook](https://www.facebook.com/) to connect users achieving great things with people wanting to support them  
 
 Actions you can do on Diadem Network:  
 
@@ -29,6 +29,7 @@ General information about usage:
 
 - Facebook Login is required to perform most actions
 - A hot wallet is used to manage QTUM transactions
+- You need to send token to Diadem Hot wallet to be able to Support and Deposit. [Check official QTUM user guide here](https://docs.qtum.site)
 - Create, Update and Confirm are free
 - Support, Deposit and Withdraw need QTUM tokens. For this, you must send some to your hot wallet
 
