@@ -4,6 +4,13 @@
 
 High-level (non technical) documentation about diadem network project
 
+Table of content:  
+
+- [qtum-dapp-documentation](#qtum-dapp-documentation)
+  - [What is Diadem Network?](#what-is-diadem-network)
+  - [Future improvement ideas](#future-improvement-ideas)
+  - [What is Diadem Network composed of?](#what-is-diadem-network-composed-of)
+
 ## What is Diadem Network?
 
 Diadem Network aims to connect users achieving great things with people wanting to support them
@@ -36,4 +43,12 @@ General information about usage:
 - Add possibility to report an achievement (for example if someone post something non-ethical)
 - Add possibility to delete his achievement(s)
 - Make to possible to create more than one achievement per user
+- Integrate with Qrypto (or equivalent) if user prefer to use it instead of DM Hot wallet
+
+## What is Diadem Network composed of?
+
+- [Client](https://github.com/DiademNetwork/qtum-dapp-client)
+- [Server](https://github.com/DiademNetwork/qtum-dapp-backend)
+- [Watchers](https://github.com/DiademNetwork/qtum-dapp-watcher)
+- [Contracts](https://github.com/DiademNetwork/qtum-smart-contracts)
 
