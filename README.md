@@ -8,8 +8,9 @@ Table of content:
 
 - [qtum-dapp-documentation](#qtum-dapp-documentation)
   - [What is Diadem Network?](#what-is-diadem-network)
-  - [Future improvement ideas](#future-improvement-ideas)
   - [What is Diadem Network composed of?](#what-is-diadem-network-composed-of)
+  - [Future improvement ideas](#future-improvement-ideas)
+  - [Roadmap](#roadmap)
 
 ## What is Diadem Network?
 
@@ -31,6 +32,13 @@ General information about usage:
 - Create, Update and Confirm are free
 - Support, Deposit and Withdraw need QTUM tokens. For this, you must send some to your hot wallet
 
+## What is Diadem Network composed of?
+
+- [Client](https://github.com/DiademNetwork/qtum-dapp-client)
+- [Server](https://github.com/DiademNetwork/qtum-dapp-backend)
+- [Watchers](https://github.com/DiademNetwork/qtum-dapp-watcher)
+- [Contracts](https://github.com/DiademNetwork/qtum-smart-contracts)
+
 ## Future improvement ideas
 
 - Internationalize platform, so anyone in the world can participate
@@ -45,10 +53,7 @@ General information about usage:
 - Make to possible to create more than one achievement per user
 - Integrate with Qrypto (or equivalent) if user prefer to use it instead of DM Hot wallet
 
-## What is Diadem Network composed of?
+## Roadmap
 
-- [Client](https://github.com/DiademNetwork/qtum-dapp-client)
-- [Server](https://github.com/DiademNetwork/qtum-dapp-backend)
-- [Watchers](https://github.com/DiademNetwork/qtum-dapp-watcher)
-- [Contracts](https://github.com/DiademNetwork/qtum-smart-contracts)
-
+- September 2018: Release of mainnet version for QTUM Hackathon
+- TBD
