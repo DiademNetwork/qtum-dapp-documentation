@@ -43,15 +43,17 @@ General information about usage:
 ## Future improvement ideas
 
 - Internationalize platform, so anyone in the world can participate
-- Add categories for achievements (art, society, education...)
+- Add other types of achievements (self-goal-achievement, group achievement, one-time/running achievement...) and their custom rules
+- Add categories for achievements (art, society, education, ecology...)
 - Add filters (by date, by category, by confirmations count....) for achievements on platform.
-- Make it possible to choose a group of witnesses for deposits
+- Add search function to find achievement(s) (search by title, creator...)
+- Make it possible to choose a group of witnesses for deposit, with configurable rules (all must confirm / half must confirm ?)
 - Integrate Diadem Network with other social networks (Twitter, Google+, Medium...)
-- Improve fee management in hot wallet (so users can chose fees they want to send)
-- Make it possible to create an achievement done by multiple persons (and chose supports distribution rules)
+- Improve fee management in hot wallet (so users can chose fees they are willing to spend, to make blockchain confirmations faster)
 - Add possibility to report an achievement (for example if someone post something non-ethical)
+- Or add administrator users to filter achievements at creation time ? => To be discussed
 - Add possibility to delete his achievement(s)
-- Make to possible to create more than one achievement per user
+- Make it possible to create more than one achievement per user
 - Integrate with Qrypto (or equivalent) if user prefer to use it instead of DM Hot wallet
 
 ## Roadmap
