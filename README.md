@@ -1,6 +1,6 @@
 # qtum-dapp-documentation
 
-[Last Update: 13th September 2018]
+[Last Update: 16th September 2018]
 
 High-level (non technical) documentation about diadem network project
 
@@ -9,29 +9,44 @@ Table of content:
 - [qtum-dapp-documentation](#qtum-dapp-documentation)
   - [What is Diadem Network?](#what-is-diadem-network)
   - [What is Diadem Network composed of?](#what-is-diadem-network-composed-of)
-  - [Future improvement ideas](#future-improvement-ideas)
   - [Roadmap](#roadmap)
+  - [Future improvement ideas (waiting for real usage feedbacks)](#future-improvement-ideas-waiting-for-real-usage-feedbacks)
 
 ## What is Diadem Network?
 
-Diadem Network leverages blockchain technology from [Qtum](https://qtum.org) and [Facebook](https://www.facebook.com/) to connect users achieving great things with people wanting to support them  
+Diadem Network leverages blockchain technology from [Qtum](https://qtum.org) and [Facebook](https://www.facebook.com/)  
 
-Actions you can do on Diadem Network:  
+On Diadem network you can be an achiever and/or a sponsor.
 
-- CREATE YOUR ACHIEVEMENT (1max per user): Post a link to an achievement you already posted on facebook
-- UPDATE YOUR ACHIEVEMENT: Your achievement evolved? No problem! Available only if you have an achievement created
-- CONFIRM achievement(s): Confirm other user(s) achievement(s)
-- SUPPORT achievement(s): Send QTUM token to achievers to show them some love
-- DEPOSIT for achievement(s): Deposit QTUM tokens which will not be sent until the facebook user YOU chose confirms the achievement
-- WITHDRAW your tokens: QTUM Tokens you own in your hot wallet can be withdrawn any time you want
+**Achiever**:  
+Fighting for the planet? Helping people out? But you need a boost?  
+Get financial support using Diadem Network:  
 
-General information about usage:  
+1. Publish a Facebook post explaining your achievement (with text, picture(s), video(s)).  
+2. **CREATE YOUR ACHIEVEMENT** on Diadem Network with the link to your Facebook post.  
+3. **WITHDRAW** QTUM tokens you receive from others supporting your great actions!  
 
-- Facebook Login is required to perform most actions
-- A hot wallet is used to manage QTUM transactions
-- You need to send token to Diadem Hot wallet to be able to Support and Deposit. [Check official QTUM user guide here](https://docs.qtum.site)
-- Create, Update and Confirm are free
-- Support, Deposit and Withdraw need QTUM tokens. For this, you must send some to your hot wallet
+Note you can **UPDATE YOUR ACHIEVEMENT** if it evolves. Available only if you created one.
+
+**Sponsor**:  
+You want to financially support people helping the world?  
+
+- **CONFIRM** achievements you know are real.  
+- You want to give immediate **SUPPORT** ? You can send QTUM tokens right away.  
+- You prefer waiting for someone you choose to confirm the achievement ? Then **DEPOSIT** QTUM tokens. They will not be transferred until he does.  
+
+Note about application usage:  
+- Facebook Login is required to perform most actions.  
+- A hot wallet is used to manage QTUM transactions.  
+- Creating, Updating and Confirming achievements are free.  
+- Supporting, Depositing and Withdrawing require QTUM tokens.  
+- [Check official QTUM user guide here](https://docs.qtum.site/en/) to know how to send QTUM tokens to yourself.  
+  
+
+**#diademnetwork**
+
+If you need more help, have questions, improvements ideas, or just want to say hello, don't hesitate contacting us at: team@diadem.network  
+
 
 ## What is Diadem Network composed of?
 
@@ -40,7 +55,14 @@ General information about usage:
 - [Watchers](https://github.com/DiademNetwork/qtum-dapp-watcher)
 - [Contracts](https://github.com/DiademNetwork/qtum-smart-contracts)
 
-## Future improvement ideas
+## Roadmap
+
+- September 2018: Release of Proof of Concept mainnet version for QTUM Hackathon
+- October 2018: Feature freeze to remove technical debt induced by Hackathon, while gathering users feedbacks
+- November/December 2018: Preparing next version release for Q1 2019, with features based on feedbacks.
+- 2019: TBD
+
+## Future improvement ideas (waiting for real usage feedbacks)
 
 - Internationalize platform, so anyone in the world can participate
 - Add other types of achievements (self-goal-achievement, group achievement, one-time/running achievement...) and their custom rules
@@ -56,7 +78,9 @@ General information about usage:
 - Make it possible to create more than one achievement per user
 - Integrate with Qrypto (or equivalent) if user prefer to use it instead of DM Hot wallet
 
-## Roadmap
 
-- September 2018: Release of mainnet version for QTUM Hackathon
-- TBD
+
+       
+
+  
+
