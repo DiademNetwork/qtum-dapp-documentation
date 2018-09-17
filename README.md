@@ -55,6 +55,9 @@ If you need more help, have questions, improvements ideas, or just want to say h
 - [Watchers](https://github.com/DiademNetwork/qtum-dapp-watcher)
 - [Contracts](https://github.com/DiademNetwork/qtum-smart-contracts)
 
+## Top level architecture:
+![Architecture](./architecture.png)
+
 ## Roadmap
 
 - September 2018: Release of Proof of Concept mainnet version for QTUM Hackathon
